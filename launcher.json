@@ -1,40 +1,24 @@
 {
-    "maintenance": true,
-    "min_version": "1.0.1",
-    "latest_version": "1.0.1",
-    "server_status": {
-        "online": true,
-        "players": 1245
+  "maintenance": true,
+  "min_version": "1.0.0",
+  "featured_news": {
+    "tag": "GÜNCELLEME",
+    "title": "BÜYÜK KIŞ YAMASI",
+    "description": "Hogsmeade karlarla kaplandı! Yeni görevler ve kıyafetler sizi bekliyor."
+  },
+  "news": [
+    {
+      "id": 1,
+      "tag": "ETKİNLİK",
+      "title": "Üç Büyücü Turnuvası Başlıyor!",
+      "description": "Cesaretini topla ve bu ölümcül yarışmaya katıl.",
+      "image": "https://i.imgur.com/ornekresim1.jpg"
     },
-    "featured_news": {
-        "tag": "ÖNE ÇIKAN HABER",
-        "title": "BÜYÜCÜLÜK DÜNYASINA HOŞ GELDİN",
-        "description": "OWL Legacy ile Hogwarts Legacy deneyimini arkadaşlarınla birlikte yaşa. Yeni güncellemeler, etkinlikler ve daha fazlası seni bekliyor."
-    },
-    "news": [
-        {
-            "id": 1,
-            "tag": "GÜNCELLEME",
-            "title": "Kış Etkinliği Başladı!",
-            "description": "Hogsmeade karlar altında! Yeni görevler ve ödüller eklendi."
-        },
-        {
-            "id": 2,
-            "tag": "YAMA NOTLARI",
-            "title": "v1.0.4 - Performans İyileştirmeleriiii",
-            "description": "FPS sorunları giderildi, süpürge mekanikleri güncellendi."
-        },
-        {
-            "id": 3,
-            "tag": "DUYURU",
-            "title": "Discord: 5000 Üye!",
-            "description": "Topluluğumuz büyüyor. Destekleriniz için teşekkürler."
-        },
-        {
-            "id": 4,
-            "tag": "MAĞAZA",
-            "title": "Yeni Asalar Stokta",
-            "description": "Ollivanders'a yeni koleksiyonluk asalar geldi."
-        }
-    ]
+    {
+      "id": 2,
+      "tag": "SİSTEM",
+      "title": "Sunucu Bakım Duyurusu",
+      "description": "Bu gece yarısı kısa süreli bir bakım yapılacak."
+    }
+  ]
 }
