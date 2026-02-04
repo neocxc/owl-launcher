@@ -1,31 +1,41 @@
 {
   "maintenance": false,
-  "min_version": "1.0.0",
-  "background_image": "https://i.ibb.co/mCwFHckd/background.webp",
+  "min_version": "1.0.2",
+  "background_image": "https://images.alphacoders.com/130/1301980.jpeg",
   "links": {
     "website": "https://owllegacy.net",
     "discord": "https://discord.gg/owlrp",
     "market": "https://owllegacy.net/market"
   },
   "featured_news": {
-    "tag": "V1.0.1 YAYINLANDI",
-    "title": "BÜYÜK KIŞ YAMASI",
-    "description": "Hogsmeade karlarla kaplandı! Yeni görevler ve kıyafetler sizi bekliyor."
+    "tag": "GÜNCELLEME",
+    "title": "BÜYÜK KIŞ YAMASI AKTİF!",
+    "description": "Hogsmeade karlarla kaplandı, yeni kıyafetler ve asa görünümleri mağazaya eklendi. Hemen keşfet!"
   },
   "news": [
     {
       "id": 1,
       "tag": "ETKİNLİK",
-      "title": "Üç Büyücü Turnuvası Başlıyor!",
-      "description": "Cesaretini topla ve bu ölümcül yarışmaya katıl.",
-      "image": "https://i.ibb.co/mCwFHckd/background.webp"
+      "title": "Üç Büyücü Turnuvası Başlıyor",
+      "description": "Kayıtlar açıldı! Detayları öğrenmek ve başvuru yapmak için tıklayın.",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/02/hogwarts-legacy-combat-1.jpg",
+      "url": "https://discord.gg/owlrp"
     },
     {
       "id": 2,
       "tag": "SİSTEM",
-      "title": "Sunucu Bakım Duyurusu",
-      "description": "Bu gece yarısı kısa süreli bir bakım yapılacak.",
-      "image": "https://i.ibb.co/mCwFHckd/background.webp"
+      "title": "Yeni Launcher Yayında v1.0.2",
+      "description": "Otomatik dosya doğrulama, bina temaları ve önbellek temizleyici eklendi.",
+      "image": "https://images.wallpapersden.com/image/download/hogwarts-legacy-4k-gaming-poster_bmdnaWmUmZqaraWkpJRmbmdlrWZlbWY.jpg",
+      "url": "https://github.com/neocxc/owl-launcher/releases"
+    },
+    {
+      "id": 3,
+      "tag": "MAĞAZA",
+      "title": "Karanlık Sanatlar Paketi",
+      "description": "Yasaklı büyülere ilgi duyanlar için özel indirimler başladı.",
+      "image": "https://i.ytimg.com/vi/W_6hQGswdGo/maxresdefault.jpg",
+      "url": "https://owllegacy.net/market"
     }
   ]
 }
