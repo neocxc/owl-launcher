@@ -2,9 +2,9 @@
   "maintenance": true,
   "min_version": "1.0.0",
   "featured_news": {
-    "tag": "GÜNCELLEME",
-    "title": "BÜYÜK KIŞ YAMASI",
-    "description": "Hogsmeade karlarla kaplandı! Yeni görevler ve kıyafetler sizi bekliyor."
+    "tag": "MERHABA!",
+    "title": "OWL Launcher",
+    "description": "OWL Legacy'e Hoşgeldin!"
   },
   "news": [
     {
@@ -12,13 +12,14 @@
       "tag": "ETKİNLİK",
       "title": "Üç Büyücü Turnuvası Başlıyor!",
       "description": "Cesaretini topla ve bu ölümcül yarışmaya katıl.",
-      "image": "https://i.imgur.com/ornekresim1.jpg"
+      "image": "https://i.ibb.co/DHFC7mqF/logo.png"
     },
     {
       "id": 2,
       "tag": "SİSTEM",
       "title": "Sunucu Bakım Duyurusu",
-      "description": "Bu gece yarısı kısa süreli bir bakım yapılacak."
+      "description": "Bu gece yarısı kısa süreli bir bakım yapılacak.",
+      "image": "https://i.ibb.co/DHFC7mqF/logo.png"
     }
   ]
 }
