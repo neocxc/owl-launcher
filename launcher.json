@@ -1,5 +1,5 @@
 {
-    "maintenance": false,
+    "maintenance": true,
     "min_version": "0.0.1",
     "latest_version": "0.0.1",
     "server_status": {
