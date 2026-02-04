@@ -1,10 +1,16 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "min_version": "1.0.0",
+  "background_image": "https://i.ibb.co/mCwFHckd/background.webp",
+  "links": {
+    "website": "https://owllegacy.net",
+    "discord": "https://discord.gg/owlrp",
+    "market": "https://owllegacy.net/market"
+  },
   "featured_news": {
-    "tag": "MERHABA!",
-    "title": "OWL Launcher",
-    "description": "OWL Legacy'e Hoşgeldin!"
+    "tag": "GÜNCELLEME",
+    "title": "BÜYÜK KIŞ YAMASI",
+    "description": "Hogsmeade karlarla kaplandı! Yeni görevler ve kıyafetler sizi bekliyor."
   },
   "news": [
     {
@@ -12,14 +18,14 @@
       "tag": "ETKİNLİK",
       "title": "Üç Büyücü Turnuvası Başlıyor!",
       "description": "Cesaretini topla ve bu ölümcül yarışmaya katıl.",
-      "image": "https://i.ibb.co/DHFC7mqF/logo.png"
+      "image": "https://i.ibb.co/mCwFHckd/background.webp"
     },
     {
       "id": 2,
       "tag": "SİSTEM",
       "title": "Sunucu Bakım Duyurusu",
       "description": "Bu gece yarısı kısa süreli bir bakım yapılacak.",
-      "image": "https://i.ibb.co/DHFC7mqF/logo.png"
+      "image": "https://i.ibb.co/mCwFHckd/background.webp"
     }
   ]
 }
